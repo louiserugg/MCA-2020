@@ -15,4 +15,4 @@ When it comes to notated music, it is possible to find sheet music for most of t
 
 Acoustic data can be found on all major streaming services like Spotify and iTunes as well as YouTube where it is published both on the band’s official channel and on other channels as live concerts, lyrics videos, fan covers etc.
 
-[NEXT WEEK](week1.md)
+[NEXT WEEK](/week1)
