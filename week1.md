@@ -6,3 +6,5 @@ Below are screenshots of png versions of my MuseScore file.
 
 [1](score1.png)
 [2](score2.png)
+
+[NEXT WEEK] (week3.md)
