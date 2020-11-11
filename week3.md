@@ -5,7 +5,8 @@
 The first part of this week's task was to export our MuseScore files from last week to a MusicXML file, and from it to an MEI file. 
 Both can be accessed through the links below.
 
-Download the MusicXML file [here](Starlight by Muse Week 2 Transcribe.musicxml).
+Download the MusicXML file [here](Starlight by Muse Week 2 Transcribe.musicxml)
+
 Download the MEI file here.
 
 ## Task 2: Rendering the MEI file using Verovio
