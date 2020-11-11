@@ -5,4 +5,5 @@ For this week's task, I have decided to transcribe Muse's song Starlight. This s
 Below are screenshots of png versions of my MuseScore file. 
 
 [1](score1.png)
-[2](score2.png}
+
+[2](score2.png)
