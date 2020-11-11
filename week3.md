@@ -13,4 +13,4 @@ Download the MEI file here.
 
 For the second part of this week's task, I have copied the code from 'verovio.html' file and edited it as needed in order to show my rendered file as a part of this website.
 
-(verovio.html)
+(https://louiserugg.github.io/MCA-2020/verovio.html)
