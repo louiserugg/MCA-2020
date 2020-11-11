@@ -1,1 +1,6 @@
-# This is my answer to week 1
+# Week 2: Notated Music
+
+For this week's task, I have decided to transcribe Muse's song Starlight. This specific arrangement was arranged Irene Lopez and can be accessed on MuseScore [here](https://musescore.com/iredecharire/scores/4550736). Originally, the arrangement is for a piano and a violin, but I have transcribed it to be for a piano and voice. 
+
+Below are screenshots of a pdf version of my MuseScore file. 
+
