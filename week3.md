@@ -7,7 +7,7 @@ Both can be accessed through the links below.
 
 Download the MusicXML file [here](starlight_transcribe.musicxml)
 
-Download the MEI file here.
+Download the MEI file here. [here](starlight_transcribe.mei)
 
 ## Task 2: Rendering the MEI file using Verovio
 
