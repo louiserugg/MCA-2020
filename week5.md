@@ -4,7 +4,7 @@
 
 If I were to have 1000 different MEI files in my GitHub repository, these are the metadata elements I would use to describe them as I believe they are the most important:
 
-**Metadata about the original file:
+**Metadata about the original file:**
 
 title (plus an optional subtitle if there is one): name of the transcribed piece
 
@@ -28,7 +28,7 @@ date: date of publication
 
 usage restrictions: legal statute of the work regarding its distribution
 
-**Metadata about the encoder/encoding process:
+**Metadata about the encoder/encoding process:**
 
 editorial changes: description of any editorial changes that happened during the transcription of the file
 
