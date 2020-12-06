@@ -40,6 +40,12 @@ You can find a link to the csv [here](featurevalues.csv)
 
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/pitch_histogram.png "Pitch Histogram")
 
+The pitch histogram shows the number of times a particular note has been played in a song. 
+
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/scatterplot.png "Scatter Plot")
 
+The extracted piano roll shows the order, length, and pitch of the notes played accross time.
+
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/scatterplot_notequarterlengthbypitch.png "Note Quarter Length By Pitch")
+
+The extracted scatter plot of pitches plots pitch against note length.
