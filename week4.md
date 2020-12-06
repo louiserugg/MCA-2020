@@ -49,3 +49,5 @@ The extracted piano roll shows the order, length, and pitch of the notes played 
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/scatterplot_notequarterlengthbypitch.png "Note Quarter Length By Pitch")
 
 The extracted scatter plot of pitches plots pitch against note length.
+
+[NEXT WEEK](week5.md)
