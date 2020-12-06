@@ -35,3 +35,7 @@ Mean Tempo: 122
 Note Density: 8.39
 
 You can find a link to the csv [here](featurevalues.csv)
+
+##Task 2: Generating a piano roll and pitch histogram
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/pitch_histogram.png "Pitch Histogram")
