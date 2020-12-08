@@ -33,3 +33,13 @@ This file was too large to export as a full image.
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_waveform.png "Ginger Underground Waveform")
 
 [Full Size](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_waveform_fullsize.png)
+
+### Playing With Shadows spectogram and waveform
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_spectogram.png "Playing With Shadows Spectogram")
+
+[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_spectogram_fullsize.png)
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_waveform.png "Playing With Shadows Waveform")
+
+[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_waveform_fullsize.png)
