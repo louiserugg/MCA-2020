@@ -36,5 +36,7 @@ project description: describes the purpose for which the file was created
 
 ## Task 2: Modifying the MEI file
 
-The MEI file was updated to contain the above listed metadata and can be accessed [here](week7.md).
+The MEI file was updated to contain the above listed metadata and can be accessed [here].
+
+[NEXT WEEK](week7.md)
 
