@@ -2,8 +2,8 @@
 
 ## Task 1: Identifying three music tracks and listing most important metadata about them
 
-| Title | Artist | Composer | Copyright Info | Genre | Source | File/Audio Format | Number of Channels | Sample Rate | Bit per second | Duration |
+| Title | Artist | Composer | Copyright Info | Genre | Source | File/Audio Format | Number of Channels | Sample Rate | Bit per second | Duration | File Size |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| col 3 is      | right-aligned | $1600     |
-| col 2 is      | centered      |   $12     |
+| Creative Design | Scott Holmes Music | Scott Holmes Music | CC BY-NC 4.0 | Synth Pop | [Free Music Archive](https://freemusicarchive.org/music/Scott_Holmes/media-music-mix/creative-design) | .mp3 | 2 | SAMPLE RATE | 320000 | 00:01:52 | 4.27 MB |
+| Ginger Underground | Till Paradiso | Till Paradiso | CC BY-NC-ND 4.0 | Jazz | [Free Music Archive](https://freemusicarchive.org/music/till-paradiso/stay-tonight/ginger-underground-tp-023mp3) | .mp3 | 2 | SAMPLE RATE | 320000 | 00:06:51 | 15.7 MB |
 | zebra stripes | are neat      |    $1     |
