@@ -19,3 +19,17 @@ The images below show only a small part of the full-sized spectogram/waveform. T
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_spectogram.png "Creative Design Spectogram")
 
 [Full Size](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_spectrogram_fullsize.png)
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_waveform.png "Creative Design Waveform")
+
+[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_waveform_fullsize.png)
+
+### Ginger Underground spectogram and waveform
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_spectogram.png "Ginger Underground Spectogram")
+
+This file was too large to export as a full image.
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_waveform.png "Ginger Underground Waveform")
+
+[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_waveform_fullsize.png)
