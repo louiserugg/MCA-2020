@@ -7,7 +7,7 @@ Both can be accessed through the links below.
 
 Download the MusicXML file [here](starlight_transcribe.musicxml)
 
-Download the MEI file here. [here](starlight_transcribe.mei)
+Download the MEI file here. [here](https://github.com/louiserugg/MCA-2020/blob/master/Starlight%20by%20Muse%20Week%202%20Transcribe.musicxml)
 
 ## Task 2: Rendering the MEI file using Verovio
 
