@@ -8,4 +8,3 @@
 
 | Ginger Underground | Till Paradiso | Till Paradiso | CC BY-NC-ND 4.0 | Jazz | [Free Music Archive](https://freemusicarchive.org/music/till-paradiso/stay-tonight/ginger-underground-tp-023mp3) | .mp3 | 2 | SAMPLE RATE | 320000 | 00:06:51 | 15.7 MB |
 
-| zebra stripes | are neat      |    $1     | O | O | O | O | O | O | O | O |
