@@ -43,3 +43,9 @@ This file was too large to export as a full image.
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_waveform.png "Playing With Shadows Waveform")
 
 [Full Size](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_waveform_fullsize.png)
+
+## Task 2.2: Describing advantages of a time-frequency analysis over a waveform-based analysis
+
+One advantage of a time-frequency analysis over a waveform analysis is that it allows us to read valuable information about the specific piece of music out of it. Based on a spectrogram, which is a visual representation of the variation of frequencies over time, we can determine roughly which notes are being played in a particular song since each note corresponds to a certain frequency. A waveform analysis, on the other hand, is very information dense, but does not provide that information in an easily accessible way. It gives us the amplitude at particular times, which corresponds to loudness and the shape of the wave gives us an indication of the changes in frequency, but lacks numerical data. For example, looking at the spectogram and wafeform of "Playing With Shadows" you can see that there's not much to learn from the waveform, apart from the changes in dynamics over time which might give us an indication of perhaps when the song gets louder or quieter. By looking at the spectrogram, on the other hand, we can get an idea of the melody of the song if we know which frequency corresponds to which pitch.
+
+[NEXT WEEK](week9.md)
