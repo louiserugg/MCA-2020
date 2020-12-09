@@ -8,6 +8,6 @@ Access the updated file [here](https://github.com/louiserugg/MCA-2020/blob/maste
 
 ## Task 2: Rendering the revised metadata
 
-
+My metadata page can be found [here](https://github.com/louiserugg/MCA-2020/blob/master/myMeta.html)
 
 [NEXT WEEK](week8.md)
