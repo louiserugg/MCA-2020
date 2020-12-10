@@ -16,4 +16,13 @@ Playing With Shadows:
 
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_features.png "Playing With Shadows Features")
 
+## Task 2: Computing and visualising histograms of features
+
+### Task 2.1: Computing and visualising histograms
+
+#### Histograms computed from spectograms
+
+
+
+
 [NEXT WEEK](week10.md)
