@@ -10,3 +10,12 @@ For this part of the task, I have used the same tracks from the previous 2 weeks
 
 For this task, I have decided to transcribe the file I generated in week 2, that is, my Starlight file. This was done by first exporting the MuseScore file into a wav file, then importing it into Sonic Visualiser and transforming it into a piano roll which was exported as a MIDI file. The MIDI file was then opened by MuseScore and exported as an image.
 
+## First, here is the original transcription:
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/Starlight%20by%20Muse-1.png "Starlight Page 1")
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/Starlight%20by%20Muse-2.png "Starlight Page 2")
+
+## Here is the exported file:
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/starlight_poly-1.png "Starlight Poly 1")
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/starlight_poly-2.png "Starlight Poly 2")
