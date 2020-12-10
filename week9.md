@@ -66,8 +66,7 @@ Playing With Shadows:
 
 ## Task 2.2: Comparing the histograms
 
-
-
+I decided to take a closer look at the histograms computed from mel frequency cepstral coefficients for each track. MFCC is usually used to analyse timber, that is the tone colour or quality. MFCCs are usefuel in music information retrieval applications such as genre classification, audio similarity measures, etc. The three tracks I am comparing are all from different genres and do not have the same instruments present. This means that the MFCCs should be different for all three tracks. They are in fact different, iof you look closely at the histograms above. All three sets of histograms are different from eachother, considering the three genres are Synth Pop, Jazz and Ambient Electronic. 'Ginger Underground' differs slightly more than the other too, as 'Ginger Underground' is Jazz, whereas Synth Pop and Ambient Electronic could be considered more similar. 
 
 
 [NEXT WEEK](week10.md)
