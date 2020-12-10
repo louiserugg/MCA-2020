@@ -36,7 +36,7 @@ project description: describes the purpose for which the file was created
 
 ## Task 2: Modifying the MEI file
 
-The MEI file was updated to contain the above listed metadata and can be accessed [here](https://github.com/louiserugg/MCA-2020/blob/master/modified_starlight.mei).
+The MEI file was updated to contain the above listed metadata and can be accessed [here](modified_starlight.mei).
 
 [NEXT WEEK](week7.md)
 
