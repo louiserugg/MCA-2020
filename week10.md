@@ -19,3 +19,8 @@ For this task, I have decided to transcribe the file I generated in week 2, that
 
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/starlight_poly-1.png "Starlight Poly 1")
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/starlight_poly-2.png "Starlight Poly 2")
+
+There is a huge difference between these two files. The first difference is that the automatically transcribed file has the entire song written in two staves, while the original file has a voice staff and and 2 staves for the piano. Secondly, the tempo of the transcribed file is different than that of the original file. The time signature is different, the key is also different and not a single bar looks the same.
+When it comes to how both files sound, they sound vastly different. There are some parts of the transcribed file which sound similar to the original file, like the main tune is vaguely the same.
+
+### Here is a link to the MIDI file [MIDI](https://github.com/louiserugg/MCA-2020/blob/master/starlight_poly.mid)
