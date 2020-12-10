@@ -11,6 +11,6 @@ Download the MEI file here. [here](uncompressed_starlight.mei)
 
 ## Task 2: Rendering the MEI file using Verovio
 
-(https://louiserugg.github.io/MCA-2020/verovio.html)
+[](https://louiserugg.github.io/MCA-2020/verovio.html)
 
 [NEXT WEEK](week4.md)
