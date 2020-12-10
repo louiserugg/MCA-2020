@@ -22,6 +22,18 @@ Playing With Shadows:
 
 #### Histograms computed from spectograms
 
+Creative Design:
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/creative_deisgn_spectogram_histogram.png "Creative Design Spectogram Histogram")
+
+Ginger Underground: 
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_spectogram_histogram.png "Ginger Underground Spectogram Histogram")
+
+Playing With Shadows:
+
+![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_spectogram_histogram.png "Playing With Shadows Spectogram Histogram")
+
 
 
 
