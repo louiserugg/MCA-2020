@@ -34,7 +34,12 @@ Playing With Shadows:
 
 ![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_spectogram_histogram.png "Playing With Shadows Spectogram Histogram")
 
+#### Histograms computed from MFCCs
 
+Creative Design:
 
+Ginger Underground:
+
+Playing With Shadows:
 
 [NEXT WEEK](week10.md)
