@@ -16,33 +16,33 @@ The images below show only a small part of the full-sized spectogram/waveform. T
 
 ### Creative Design spectogram and waveform
 
-![alt text](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_spectogram.png "Creative Design Spectogram")
+![alt text](creative_design_spectogram.png "Creative Design Spectogram")
 
-[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_spectrogram_fullsize.png)
+[Full Size](creative_design_spectrogram_fullsize.png)
 
-![alt text](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_waveform.png "Creative Design Waveform")
+![alt text](creative_design_waveform.png "Creative Design Waveform")
 
-[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/creative_design_waveform_fullsize.png)
+[Full Size](creative_design_waveform_fullsize.png)
 
 ### Ginger Underground spectogram and waveform
 
-![alt text](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_spectogram.png "Ginger Underground Spectogram")
+![alt text](ginger_underground_spectogram.png "Ginger Underground Spectogram")
 
 This file was too large to export as a full image.
 
-![alt text](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_waveform.png "Ginger Underground Waveform")
+![alt text](ginger_underground_waveform.png "Ginger Underground Waveform")
 
-[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/ginger_underground_waveform_fullsize.png)
+[Full Size](ginger_underground_waveform_fullsize.png)
 
 ### Playing With Shadows spectogram and waveform
 
-![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_spectogram.png "Playing With Shadows Spectogram")
+![alt text](playing_with_shadows_spectogram.png "Playing With Shadows Spectogram")
 
-[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_spectogram_fullsize.png)
+[Full Size](playing_with_shadows_spectogram_fullsize.png)
 
-![alt text](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_waveform.png "Playing With Shadows Waveform")
+![alt text](playing_with_shadows_waveform.png "Playing With Shadows Waveform")
 
-[Full Size](https://github.com/louiserugg/MCA-2020/blob/master/playing_with_shadows_waveform_fullsize.png)
+[Full Size](playing_with_shadows_waveform_fullsize.png)
 
 ## Task 2.2: Describing advantages of a time-frequency analysis over a waveform-based analysis
 
