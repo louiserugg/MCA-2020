@@ -8,7 +8,7 @@
             <title xml:id="title1" authURI="https://musicbrainz.org/release-group/e56c50d0-b0de-3c18-9367-0101a90a7c1f" authority="Linked Brainz">Starlight by Muse</title>
 			<title id="subtitle" type="subtitle"> An arrangement for the violin and piano</title>
 			<composer xml:id="composer1">Muse</composer>
-			<arranger xml:id="authURI"="https://musescore.com/iredecharire/scores/4550736" authority="MuseScore">Irene López</arranger>
+			<arranger xml:id="arranger1" authURI="https://musescore.com/iredecharire/scores/4550736" authority="MuseScore">Irene López</arranger>
             <respStmt>
                <resp> Encoded by </resp>
                <name> Louise Rugg </name>
