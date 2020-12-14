@@ -13,4 +13,6 @@ Access the updated file [here](modified_starlight.mei).
 
 My metadata page can be found [here](myMeta.html)
 
+https://louiserugg.github.io/MCA-2020/myMeta.html
+
 [NEXT WEEK](week8.md)
