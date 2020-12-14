@@ -1,4 +1,7 @@
 # MCA
+
+| WEEK 1 | WEEK 2 | WEEK 3 | WEEK 4 | WEEK 5 | WEEK 7 | WEEK 8 | WEEK 9 | WEEK 10 |
+
 ## Task 1: Dataset Theme
 The theme of my dataset is the English rock band called "Muse". The band is comprised of three members: Matthew Bellamy (lead guitarist, vocalist, and pianist), Chris Wolstenholme (bassist, and backing vocalists), and Dominic Howard (drummer). They are sub-classified as mainly progressive rock, and play music with melody and fast tempo. However, they also play a great number of other styles of music, especially on their older albums like Showbiz. Their albums, Black Holes and Revelations, Absolution and The Resistance, have been successful in the United States, the United Kingdom and most western countries of the world.
 
