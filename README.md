@@ -1,6 +1,6 @@
 # MCA
 
-| WEEK 1 | WEEK 2 | WEEK 3 | WEEK 4 | WEEK 5 | WEEK 7 | WEEK 8 | WEEK 9 | WEEK 10 |
+| [WEEK 1](README.md) | [WEEK 2](week1.md) | [WEEK 3](week3.md) | [WEEK 4](week4.md) | [WEEK 5](week5.md) | [WEEK 7](week7.md) | [WEEK 8](week8.md) | [WEEK 9](week9.md) | [WEEK 10](week10.md) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Task 1: Dataset Theme
