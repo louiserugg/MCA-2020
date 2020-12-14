@@ -1,6 +1,4 @@
 | [WEEK 1](README.md) | [WEEK 2](week1.md) | [WEEK 3](week3.md) | [WEEK 4](week4.md) | [WEEK 5](week5.md) | [WEEK 7](week7.md) | [WEEK 8](week8.md) | [WEEK 9](week9.md) | [WEEK 10](week10.md) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-
 # Week 4: Basic Analytics
 
 ## Task 1: Generating a jSymbolic
